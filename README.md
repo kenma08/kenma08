@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... MATHEMATICS ESSENTIAL FOR ML AND STARTED A COURSE ON DATA SCIENCE.
 - 💞️ I’m looking to collaborate on ... PROJECT RELATED TO MACHINE LEARNING AND DATA SCIENCE.
 - 📫 How to reach me ... LINKED PROFINE - https://www.linkedin.com/in/prakhar-gupta-04544625a/
-- 😄 Pronouns: ... DATA SCIENCE AND MACHINE LEARNNG ENGINEER.
+- 😄 Pronouns: ... He/Him.
 - ⚡ Fun fact: ... I AM OPEN TO OPEN SOURCE PROJECTS.
 
 <!---
